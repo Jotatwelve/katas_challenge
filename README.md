@@ -9,3 +9,9 @@ Delivery time is essential, for each Kata you will have 1 week to do succesfully
 and comment the issue of the kata with the link to your solution. After this time interval katas solutions <br>
 wont be accepted.<br><br>
 Katas will be posted as **issues**, so be aware and subscribe to the katas label<br><br>
+
+___
+## Scoring method
+* 1st: 2 points
+* 2nd and 3rd: 1.5 points
+* 4th - 10th: 1 point
