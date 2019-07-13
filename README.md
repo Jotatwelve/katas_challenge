@@ -15,3 +15,7 @@ ___
 * 1st: 2 points
 * 2nd and 3rd: 1.5 points
 * 4th - 10th: 1 point
+
+___
+## Extra Feature
+If you deliver your solution out of the deadline you will obtain 0.5 points
