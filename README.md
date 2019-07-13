@@ -18,4 +18,4 @@ ___
 
 ___
 ## Extra Feature
-If you deliver your solution out of the deadline you will obtain 0.5 points
+If you deliver your solution out of the deadline you will obtain 0.5 points :wink:
