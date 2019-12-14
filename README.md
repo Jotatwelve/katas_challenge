@@ -13,6 +13,7 @@ Katas will be posted as **issues**, so be aware and subscribe to the katas label
 ___
 ## Scoring method
 * 1st: 2 points
+* 2nd and 3rd: 1.5 points
 * Rest: 1 point
 
 ___
