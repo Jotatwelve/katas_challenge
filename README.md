@@ -12,8 +12,8 @@ Katas will be posted as **issues**, so be aware and subscribe to the katas label
 
 ___
 ## Scoring method
-* Before Deadline: 2 points
-* After Deadline: 1 point
+* 1st: 2 points
+* Rest: 1 point
 
 ___
 ## Extra Feature
